@@ -1,0 +1,13 @@
+<suite name="Selenium4ActionsSuite"> 
+
+  <test name="ActionsTests"> 
+
+    <classes> 
+
+      <class name="demo.CookiesDemoTest"/> 
+
+    </classes> 
+
+  </test> 
+
+</suite> 

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-02-19T12:35:46 IST" name="Default suite" finished-at="2026-02-19T12:35:59 IST" duration-ms="12754">
+    <groups>
+    </groups>
+    <test started-at="2026-02-19T12:35:46 IST" name="Default test" finished-at="2026-02-19T12:35:59 IST" duration-ms="12754">
+      <class name="demo.DesiredCapabilities_chromeOptions">
+        <test-method signature="localCapabilities_modernOptions_demo()[pri:0, instance:demo.DesiredCapabilities_chromeOptions@7b2bbc3]" started-at="2026-02-19T12:35:46 IST" name="localCapabilities_modernOptions_demo" finished-at="2026-02-19T12:35:59 IST" duration-ms="12703" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- localCapabilities_modernOptions_demo -->
+      </class> <!-- demo.DesiredCapabilities_chromeOptions -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
